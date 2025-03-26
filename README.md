@@ -1,6 +1,7 @@
 # BSIT2Asie
-#Rickssie Hubahib BSIT 2A LSPU sta.cruz campus
- Activity: Python Keyword Implementation & GitHub Submission 
+#Rickssie Hubahib BSIT 2A 
+#LSPU sta.cruz campus
+#Activity: Python Keyword Implementation & GitHub Submission 
 
 
 Inventory System and Python Features Demo
